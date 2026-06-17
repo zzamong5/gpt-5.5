@@ -1,8 +1,8 @@
-# ChatGPT 5 镜像站推荐：国内免费使用 ChatGPT 5 指南（支持 GPT-5、GPT-4o、o1、o3、o4，无需翻墙）
+# ChatGPT 5 镜像站推荐：国内免费使用 ChatGPT 5 指南（支持 GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2，无需翻墙）
 
 **更新时间：2026-01-22**
 
-如果您正在寻找稳定、好用、无需翻墙的 **ChatGPT 5 镜像站**，这篇文章就是为您准备的。本文围绕 **ChatGPT 5 镜像**、**ChatGPT 5 中文版**、**ChatGPT 镜像站推荐** 等核心关键词，整理了多个国内可访问的 **ChatGPT 5 镜像网站**，帮助您快速体验 GPT-5、GPT-4o、o1、o3、o4 等主流模型。无论您是想找 **ChatGPT 5 镜像入口**，还是想了解 **ChatGPT 5 镜像网站怎么用**，都可以直接参考这份指南。
+如果您正在寻找稳定、好用、无需翻墙的 **ChatGPT 5 镜像站**，这篇文章就是为您准备的。本文围绕 **ChatGPT 5 镜像**、**ChatGPT 5 中文版**、**ChatGPT 镜像站推荐** 等核心关键词，整理了多个国内可访问的 **ChatGPT 5 镜像网站**，帮助您快速体验 GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2等主流模型。无论您是想找 **ChatGPT 5 镜像入口**，还是想了解 **ChatGPT 5 镜像网站怎么用**，都可以直接参考这份指南。
 
 ## 国内可用的 ChatGPT 5 镜像站推荐
 
@@ -10,10 +10,10 @@
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 | --- | --- | --- | --- | --- |
-| AI Mirror 中文站 | [chat.aimirror123.com](https://chat.aimirror123.com) | GPT-5、GPT-4o、o1、o3、o4、Claude、Gemini | 部分免费 | 稳定的 ChatGPT 5 镜像站，支持多模型切换，适合中文用户日常使用 |
-| AI CN Box | [chat.aicnbox.com](https://chat.aicnbox.com) | GPT-5、GPT-4o、o1、o3、o4、Gemini、Claude | 部分免费 | 多模型聚合型 ChatGPT 5 镜像网站，适合写作、翻译、代码和办公 |
+| AI Mirror 中文站 | [chat.aimirror123.com](https://chat.aimirror123.com) | GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2、Claude、Gemini | 部分免费 | 稳定的 ChatGPT 5 镜像站，支持多模型切换，适合中文用户日常使用 |
+| AI CN Box | [chat.aicnbox.com](https://chat.aicnbox.com) | GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2、Gemini、Claude | 部分免费 | 多模型聚合型 ChatGPT 5 镜像网站，适合写作、翻译、代码和办公 |
 | Gemini 中文指南 | [gemini-chinese-guide.com](https://gemini-chinese-guide.com) | Gemini、GPT-4o、GPT-5 | 部分免费 | 提供 Gemini 与 ChatGPT 5 镜像相关体验，适合多模型对比 |
-| ChatGPT Tool | [chatgpt-tool.com](https://chatgpt-tool.com) | GPT-5、GPT-4o、o1、o3、o4 | 部分免费 | 轻量型 ChatGPT 5 镜像入口，打开即用，适合快速体验 |
+| ChatGPT Tool | [chatgpt-tool.com](https://chatgpt-tool.com) | GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2 | 部分免费 | 轻量型 ChatGPT 5 镜像入口，打开即用，适合快速体验 |
 
 > 说明：不同 **ChatGPT 5 镜像站** 的模型、免费额度和功能可能会调整，具体请以网站页面展示为准。
 
@@ -76,7 +76,7 @@
    部分网站支持直接体验，部分网站可通过邮箱快速注册。
 
 3. 选择模型  
-   在 **ChatGPT 5 镜像网站** 中选择 GPT-5、GPT-4o、o1、o3、o4 等模型。
+   在 **ChatGPT 5 镜像网站** 中选择 GPT-5、GPT-5.5、GPT-5.6、GPT-Image-2 等模型。
 
 4. 开始使用  
    输入问题后，即可通过 **ChatGPT 5 镜像** 完成写作、问答、翻译、办公、代码等任务。
